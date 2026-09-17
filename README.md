@@ -2,7 +2,7 @@
 Canteen Ordering system
 import java.util.Scanner;
 
-public class Canteen {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
